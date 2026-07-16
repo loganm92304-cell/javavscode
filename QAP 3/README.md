@@ -1,18 +1,31 @@
-## Getting Started
+How many hours did it take you to complete this assessment?
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Problem 1: ~1.0 hour
 
-## Folder Structure
+Problem 2: ~0.5 hours
 
-The workspace contains two folders by default, where:
+Problem 3 & 4: ~1.5 hours
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Total: ~3.0 hours
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+What online resources did you use?
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Java Documentation (Oracle), GeeksforGeeks, Stack Overflow.
 
-## Dependency Management
+Did you get help from any classmates?
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+No, this assessment was completed individually.
+
+Did you ask for help from an instructor?
+
+No help sessions were required.
+
+Rate the difficulty of each problem and your confidence in solving similar problems in the future:
+
+Problem 1: Easy (Confidence: 5/5)
+
+Problem 2: Easy-Medium (Confidence: 5/5)
+
+Problem 3: Medium (Confidence: 5/5)
+
+Problem 4: Medium (Confidence: 5/5)
