@@ -1,4 +1,7 @@
-public class Demo {
+package q4;
+
+
+public class Demo4 {
     
     // Static method to scale an array of Scalable items
     public static void scaleAll(Scalable[] scalables, double factor) {

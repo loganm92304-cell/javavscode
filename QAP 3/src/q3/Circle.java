@@ -1,3 +1,5 @@
+package q3;
+
 /**
  * Represents a Circle (a special case of Ellipse where a = b = radius).
  */
@@ -7,8 +9,5 @@ public class Circle extends Ellipse {
         super(name, radius, radius);
     }
 
-    @Override
-    public void scale(double factor) {
-        super.scale(factor);
-    }
+
 }

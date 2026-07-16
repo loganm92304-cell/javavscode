@@ -1,3 +1,5 @@
+package q2;
+
 /**
  * Represents a basic 2D Point.
  */

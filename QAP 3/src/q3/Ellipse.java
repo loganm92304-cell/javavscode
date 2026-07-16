@@ -1,3 +1,5 @@
+package q3;
+
 /**
  * Represents an Ellipse. 
  */
@@ -28,9 +30,5 @@ public class Ellipse extends Shape {
         return Math.PI * (3 * (a + b) - Math.sqrt((3 * a + b) * (a + 3 * b)));
     }
 
-    @Override
-    public void scale(double factor) {
-        this.a *= factor;
-        this.b *= factor;
-    }
+
 }

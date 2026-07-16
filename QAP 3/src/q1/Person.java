@@ -1,3 +1,5 @@
+package q1;
+
 /**
  * Represents a basic Person with name, age, and gender.
  */

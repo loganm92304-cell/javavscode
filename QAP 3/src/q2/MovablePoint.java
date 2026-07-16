@@ -1,3 +1,5 @@
+package q2;
+
 /**
  * Represents a Point that can move based on speeds.
  */

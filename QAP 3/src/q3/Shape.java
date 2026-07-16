@@ -1,7 +1,9 @@
+package q3;
+
 /**
  * Abstract class representing a generic geometric Shape.
  */
-public abstract class Shape implements Scalable {
+public abstract class Shape  {
     protected String name;
 
     public Shape(String name) {

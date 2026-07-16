@@ -1,3 +1,5 @@
+package q1;
+
 /**
  * Represents a Teacher, extending Person with subject and salary.
  */

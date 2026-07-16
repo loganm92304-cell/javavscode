@@ -1,3 +1,5 @@
+package q1;
+
 /**
  * Represents a Student, extending Person with an ID and GPA.
  */

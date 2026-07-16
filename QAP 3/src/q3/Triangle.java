@@ -1,3 +1,5 @@
+package q3;
+
 /**
  * Represents a Triangle. Validates sides using the triangle inequality theorem.
  */
@@ -33,10 +35,5 @@ public class Triangle extends Shape {
         return side1 + side2 + side3;
     }
 
-    @Override
-    public void scale(double factor) {
-        this.side1 *= factor;
-        this.side2 *= factor;
-        this.side3 *= factor;
-    }
+
 }

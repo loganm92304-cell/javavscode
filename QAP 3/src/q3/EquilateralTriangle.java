@@ -1,3 +1,5 @@
+package q3;
+
 /**
  * Represents an Equilateral Triangle.
  */
@@ -7,8 +9,5 @@ public class EquilateralTriangle extends Triangle {
         super(name, side, side, side);
     }
 
-    @Override
-    public void scale(double factor) {
-        super.scale(factor);
-    }
+
 }

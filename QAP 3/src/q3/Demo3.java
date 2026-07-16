@@ -1,11 +1,10 @@
-public class Demo {
+package q3;
+
+
+public class Demo3 {
     
-    // Static method to scale an array of Scalable items
-    public static void scaleAll(Scalable[] scalables, double factor) {
-        for (Scalable item : scalables) {
-            item.scale(factor);
-        }
-    }
+
+
 
     public static void main(String[] args) {
         // Create an array of Shape objects
@@ -23,7 +22,7 @@ public class Demo {
         // Scale shapes by a factor of 2.0
         double factor = 2.0;
         System.out.println("\n--- Scaling shapes by factor of " + factor + " ---");
-        scaleAll(shapes, factor);
+
 
         System.out.println("\n=== AFTER SCALING ===");
         for (Shape s : shapes) {

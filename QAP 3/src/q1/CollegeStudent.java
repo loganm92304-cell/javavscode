@@ -1,3 +1,5 @@
+package q1;
+
 /**
  * Represents a CollegeStudent, extending Student with year and major.
  */
